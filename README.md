@@ -1,4 +1,5 @@
 # Abstract
+## This project was the final project for the Certificate in Quant Finance (CQF)
 Models of price direction forecasting through deep learning algorithms
 live at the frontier of quantitative finance. In this project we develop an LSTM/GRU
 based binary classification neural network aimed at 5-days price direction forecasting
